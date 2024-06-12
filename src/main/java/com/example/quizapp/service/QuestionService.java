@@ -1,4 +1,4 @@
-package com.example.quizapp.repository.service;
+package com.example.quizapp.service;
 
 import java.util.List;
 import com.example.quizapp.question.Question;

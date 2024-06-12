@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.example.quizapp.question.User;
-import com.example.quizapp.repository.service.UserService;
+import com.example.quizapp.service.UserService;
 
 @RequestMapping("/user")
 @RestController

@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.example.quizapp.question.QuestionWrapper;
 import com.example.quizapp.question.QuizResult;
 import com.example.quizapp.question.Response;
-import com.example.quizapp.repository.service.QuizService;
+import com.example.quizapp.service.QuizService;
 @RequestMapping("/quiz")
 @RestController
 public class QuizController {
